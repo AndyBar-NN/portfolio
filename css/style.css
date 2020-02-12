@@ -85,7 +85,7 @@ body {
   background-color: white;
   border-radius: 50%;
   background-image: url('../images/avatar.bmp');
-  background-position: center top -50px;
+  background-position: center top 0px;
   border: 13px solid white;
 }
 
